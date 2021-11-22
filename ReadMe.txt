@@ -1,5 +1,3 @@
-Design change prediction based on social media sentiment analysis
-
 P1data contains 3 sets of YouTube comments based on 3 sets of search words in the format of “brand/company product model”. 
 Each set of comments is available in the original form (RawComments) and preprocessed form (CleanedComments).
 For confidentiality reasons, the “brand/company” of the product is coded as <BX> in the data.
